@@ -58,3 +58,9 @@ section#login > div#formulario{
     display: block;
 
 }
+
+form > input[type=submit]{
+    display: block;
+    font-size: 1em;
+    width: 100%
+    
