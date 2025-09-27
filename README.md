@@ -1,7 +1,5 @@
 # 🔐 Projeto Login
 
-![Preview do Projeto](src/img/mockup/imagem_login.png) <!-- coloca um print da tela de login aqui -->
-
 ## 🚀 Sobre o projeto
 
 Tela de login desenvolvida com **HTML, CSS e JavaScript**, focada em praticar estruturação de formulários e estilização responsiva.
