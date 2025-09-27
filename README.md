@@ -41,5 +41,5 @@ Durante esse projeto, pratiquei:
 
 ## 📬 Contato
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lepofernandes)
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-fernandesg)
 🐙 [GitHub](https://github.com/LepoFernandes)
